@@ -41,3 +41,6 @@ function count(string) {
     return counts;
   }, {});
 }
+
+//Codewars
+//Arrays
