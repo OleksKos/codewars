@@ -44,3 +44,7 @@ function count(string) {
 
 //Codewars
 //Arrays
+let myBackground = document.querySelector('.my_gradinent_background');
+if (myBackground) {
+  myBackground.style.backgroundImage = "linear-gradient(180deg,rgba(0,0,0,0) 72%,#e0d2c8 49%)";
+}
